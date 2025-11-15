@@ -8,12 +8,3 @@ Multiple classification algorithms were trained and evaluated, including Logisti
 <br>
 <br>
 After evaluation, the best-performing model Logistic Regression was selected and integrated into a final prediction.
-<br>
-<br>
-The project demonstrates:
-<ul>
-  <ls>Data preprocessing and model training</ls>
-  <ls>Evaluating multiple machine learning algorithms</ls>
-  <ls>Model comparison using accuracy and confusion matrices</ls>
-  <ls>Final production-ready prediction function</ls>
-</ul>
