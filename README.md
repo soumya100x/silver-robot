@@ -3,6 +3,8 @@
 <br>
 This project builds a machine learning system to predict the likelihood of heart disease based on clinical health measurements. The dataset includes medical attributes such as age, cholesterol levels, resting blood pressure, chest pain type, ECG results, and more.
 <br>
+<br>
 Multiple classification algorithms were trained and evaluated, including Logistic Regression, Decision Tree, KNN, Naive Bayes, Random Forest, and Support Vector Classifier. Each model was tested using a leak-free pipeline with stratified splitting and proper feature scaling to ensure fair comparison.
+<br>
 <br>
 After evaluation, the best-performing model was selected and integrated into a final prediction.
